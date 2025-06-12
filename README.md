@@ -1,12 +1,37 @@
-# React + Vite
+Employee Management System (EMS) – React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive Employee Management System (EMS) built entirely using React.js. This project is designed to manage tasks between employers and employees with an intuitive interface and efficient state management.
 
-Currently, two official plugins are available:
+Features
+✅ Login Interface
+Secure and stylish login form for user authentication.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Task Assignment
+Employers can assign tasks with a title, due date, category, and description.
 
-## Expanding the ESLint configuration
+✅ Employee Interaction
+Employees can:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Accept assigned tasks
+
+Mark tasks as Completed or Failed
+
+✅ Real-Time Dashboard
+Dynamic dashboard showcasing:
+
+Task count (New, Active, Completed, Failed)
+
+Task cards by category
+
+Status updates
+
+✅ Task Summary Table
+Track task status for each employee in a neat table format.
+
+✅ Smooth UI Flow
+Forms are interactive — fields appear step-by-step as the user fills them out.
+
+✅ Modern UI (Dark Theme)
+Visually appealing, clean layout with responsive design.
+
+🔗 Live Demo
